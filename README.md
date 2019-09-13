@@ -1,4 +1,4 @@
-# msb-vuefire
+# msb-monaco
 
 ## Project setup
 ```
